@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='repoAssets/img.webp'>
+<img src='repoAssets/img.jpg'>
 </p>
 <h1 align="center" > BioInformatics Course  </h1>
 <h3 align="center">
